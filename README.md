@@ -1,6 +1,7 @@
 # 🌱 Práctica SASP02 – Introducción a Markdown y Sostenibilidad
 ## 1. Trabajo elaborado por el alumno  
 [sostenibilidad.md](https://github.com/smefrag2310/Practica-SASP02/blob/main/sostenibilidad.md)
+[Sostenibilidad.pdf](https://github.com/smefrag2310/Practica-SASP02/blob/main/Introducci%C3%B3n%20a%20la%20Sostenibilidad.pdf)
 ## 2. Introducción a Markdown
 
 Markdown es un **lenguaje de marcas ligero** que permite escribir documentos de texto con formato de manera sencilla y legible. Se usa mucho en GitHub, foros técnicos y aplicaciones de notas porque:
