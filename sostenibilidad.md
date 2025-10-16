@@ -11,6 +11,6 @@ Lista con las tres dimensiones:
 
 | ODS | Descripción |
 | - | - |
-| 7. Energía asequible y no contaminante |
-| 8.Trabajo decente y crecimiento económico |
-| 9.Industria innocación e infraestructura |
+| 7. Energía asequible y no contaminante | Garantizar el acceso a una energía asequible, segura y moderna para todos |
+| 8.Trabajo decente y crecimiento económico | Promover el crecimiento económico,inclusivo y sostenible |
+| 9.Industria innocación e infraestructura | Fomentar la innovación para alcanzar un desarrollo sostenible |
