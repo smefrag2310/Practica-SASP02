@@ -14,4 +14,6 @@ Lista con las tres dimensiones:
 | 7. Energía asequible y no contaminante | Garantizar el acceso a una energía asequible, segura y moderna para todos |
 | 8.Trabajo decente y crecimiento económico | Promover el crecimiento económico,inclusivo y sostenible |
 | 9.Industria innocación e infraestructura | Fomentar la innovación para alcanzar un desarrollo sostenible |
+
+
 ![ODS informática](https://github.com/smefrag2310/Practica-SASP02/blob/main/Captura%20de%20pantalla%202025-10-16%20122503.png)
