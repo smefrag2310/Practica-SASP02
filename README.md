@@ -1,5 +1,5 @@
 # 🌱 Práctica SASP02 – Introducción a Markdown y Sostenibilidad
-## 1.Trabajo elaborado por el alumno  
+## 1. Trabajo elaborado por el alumno  
 ## 2. Introducción a Markdown
 
 Markdown es un **lenguaje de marcas ligero** que permite escribir documentos de texto con formato de manera sencilla y legible. Se usa mucho en GitHub, foros técnicos y aplicaciones de notas porque:
