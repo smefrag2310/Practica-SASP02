@@ -17,3 +17,10 @@ Lista con las tres dimensiones:
 
 
 ![ODS informática](https://github.com/smefrag2310/Practica-SASP02/blob/main/Captura%20de%20pantalla%202025-10-16%20122503.png)
+
+**Acciones sostenibles en informática:**  
+*[ ] Diseño de hardeware eficiente
+*[ ] Fuentes de energía renovables
+*[ ] Virtualización
+*[ ] Reciclaje de hardware
+*[ ] Gestión de energía
