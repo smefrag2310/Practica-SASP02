@@ -5,4 +5,6 @@ La sostenibilidad es satisfacer las actividades actuales sin comprometer a la ca
 Lista con las tres dimensiones:
 - Ambiental
 - Social
-- Económica
+- Económica  
+**Una cita de la ONU es la sigiente:**
+ > "El desarrollo sostenible es el camino hacia el futuro que queremos para todos. Ofrece un marco para generar crecimiento económico, alcanzar la justicia social, ejercer la gestión medioambiental y reforzar la gobernanza." 
